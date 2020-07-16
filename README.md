@@ -16,3 +16,8 @@
 
 ### I'm 31 years old Self-taught Full-Stack developer from India. Specialized in WordPress development.
 
+📖**Learning** Electron JS, Graphql.
+
+### Languages and Tools
+
+
