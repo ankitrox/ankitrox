@@ -14,7 +14,7 @@
 </a>
 <br />
 
-### I'm 31 years old self-taught full-stack developer from India. Specialized in WordPress development.
+### I'm a self-taught full-stack developer from India. Specialized in WordPress development.
 
 I am passionate about web development and hold 8+ years of experience in web development which mainly includes PHP, MySQL, JavsCript and WordPress development. 
 
