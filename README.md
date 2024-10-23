@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Ankit!](https://sharethingz.com)
+### Hi there 👋, I'm [Ankit!](https://ankitgade.in)
 
 <br/>
 <a href="https://twitter.com/Ankitgade1">
